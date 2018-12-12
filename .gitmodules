@@ -70,6 +70,3 @@
 [submodule "src/rust-sgx"]
 	path = src/rust-sgx
 	url = https://github.com/fortanix/rust-sgx
-[submodule "src/jemalloc"]
-	path = src/jemalloc
-	url = https://github.com/jemalloc/jemalloc
